@@ -1,0 +1,9 @@
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	"features": {
+		"ghcr.io/devcontainers-extra/features/apt-packages:1": {
+			"packages": "build-essential,crossbuild-essential-arm64,binutils,bc,bison,flex,libssl-dev,libncurses5-dev,kmod"
+		}
+	}
+}

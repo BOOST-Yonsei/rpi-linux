@@ -112,6 +112,7 @@ modules.order
 !.kunitconfig
 !.mailmap
 !.rustfmt.toml
+!.devcontainer
 
 #
 # Generated include files
