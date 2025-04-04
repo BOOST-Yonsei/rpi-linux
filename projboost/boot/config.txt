@@ -1,0 +1,6 @@
+[all]
+dtoverlay=pi3-disable-bt
+enable_uart=1
+uart_2ndstage=1
+dtparam=uart0
+dtparam=uart0_console
